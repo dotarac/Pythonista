@@ -15,4 +15,4 @@ Apple has deliberately denied Pythonista the right to use OpenIn share extension
 5. Pythonista script creates a new script file using the file name passed as argument and copy content of the file from the clipboard. It then stores the file in a dedicated Pythonista Directory after checking for duplicates in order to avoid overwriting.
 6. Workflow is called back again using URL schemes to continue the loop over the file list
 
-	
+	<img src="asset.jpg"/>
