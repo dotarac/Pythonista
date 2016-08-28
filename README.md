@@ -13,6 +13,6 @@ Apple has deliberately denied Pythonista the right to use OpenIn share extension
 3. The WorkFlow lets the user choose the correct folder in the saved archive and propose the user to download all scripts or only a selection of files. Workflow filters python files only
 4. For each file in the selected folder, Workflow stores the file content on the Ipad clipboard then calls a Pythonista script with the filename as an argument.
 5. Pythonista script creates a new script file using the file name passed as argument and copy content of the file from the clipboard. It then stores the file in a dedicated Pythonista Directory after checking for duplicates in order to avoid overwriting.
-6. Workflow is called back again using URL schemes to continue the loop over the file list
+6. Workflow is called back again using URL schemes to continue the loop over the file list (see workflow details in picture from left to right)
 
 	<img src="asset.jpg"/>
