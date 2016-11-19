@@ -18,3 +18,5 @@ This script automates this workflow thanks to the following steps:
 6. Workflow is called back again using URL schemes to continue the loop over the file list (see workflow details in picture from left to right)
 
 	<img src="asset.jpg"/>
+
+The workflow can be found [**here**](https://workflow.is/workflows/1259436e694e40ef9cb55dd6f3c98d0d)
